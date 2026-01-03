@@ -1,1 +1,1 @@
-# filecommander
+# e2openplugin-FileCommander
